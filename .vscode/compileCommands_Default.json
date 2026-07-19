@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\Source\\BoomeRacist\\BoomeRacist.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\.vscode\\compileCommands_Default\\BoomeRacist.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\Source\\BoomeRacist\\BoomeRacist.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\.vscode\\compileCommands_Default\\BoomeRacist.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\Source\\BoomeRacist\\BoomeRacist.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\.vscode\\compileCommands_Default\\BoomeRacist.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\Source\\BoomeRacist\\Test.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\.vscode\\compileCommands_Default\\BoomeRacist.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\Source\\BoomeRacist\\Test.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\lauta\\Documents\\Unreal Projects\\LiminalSpeed\\BoomeRacist\\.vscode\\compileCommands_Default\\BoomeRacist.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+	}
+]
