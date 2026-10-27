@@ -38,6 +38,10 @@
 		{
 			"Name": "ConsoleVariables",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
